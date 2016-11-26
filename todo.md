@@ -12,3 +12,6 @@
 * central meridian of different reference ellipsods
 * tilt of eath, tropics, arctic/antarctic circles
 * numeric integration
+* formula citations
+* unit tests
+
